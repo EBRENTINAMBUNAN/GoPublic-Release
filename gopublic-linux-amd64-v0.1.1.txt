@@ -1,0 +1,12 @@
+Application : gopublic
+Version     : 0.1.1
+Platform    : linux
+Arch        : amd64
+Build Mode  : onefile
+Binary      : gopublic-linux-amd64-v0.1.1
+
+Jalankan dengan:
+  ./gopublic-linux-amd64-v0.1.1
+
+Catatan:
+- registry binary disimpan di ~/.config/gopublic/projects.json
