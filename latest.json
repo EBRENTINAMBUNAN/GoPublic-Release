@@ -1,0 +1,19 @@
+{
+  "app": "gopublic",
+  "version": "0.1.6",
+  "version_dir": "v0.1.6",
+  "platform": "linux",
+  "arch": "amd64",
+  "mode": "onefile",
+  "generated_at_utc": "2026-03-19T17:22:40Z",
+  "artifact_name": "gopublic-linux-amd64-v0.1.6",
+  "checksum_name": "gopublic-linux-amd64-v0.1.6.sha256",
+  "release_note_name": "gopublic-linux-amd64-v0.1.6.txt",
+  "version_readme_name": "README.md",
+  "installer_name": "install-gopublic.sh",
+  "uninstaller_name": "uninstall-gopublic.sh",
+  "latest_files": {
+    "version": "LATEST",
+    "manifest": "latest.json"
+  }
+}
